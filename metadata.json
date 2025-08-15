@@ -1,0 +1,5 @@
+{
+  "name": "Preis-Radar Hardware Vergleich",
+  "description": "Eine moderne, mobile Web-App zum Vergleich von Preisen für PC-Hardware und Kameras, mit PDF-Export und Download-Management.",
+  "requestFramePermissions": []
+}
